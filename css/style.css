@@ -19708,7 +19708,7 @@ html[dir=rtl] .r4crx ._2-_Pl {
 .r4crx ._2-_Pl {
     position: relative;
     top: 20px;
-    width: calc(100% - 40px);
+    width: calc(100% - 150px);
     height: calc(100% - 60px)
 }
 
@@ -21481,4 +21481,15 @@ html[dir=rtl] ._2ICcy:after {
 
 #main {
     display: none;
+}
+
+._2okVP {
+    display: flex;
+    justify-content: center;
+}
+
+#picture-camera {
+    height: 160%;
+    width: 31vw;
+    text-align: center;
 }

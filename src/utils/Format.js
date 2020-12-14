@@ -1,5 +1,5 @@
 
-class Format {
+export class Format {
 
     // Camel case format
     static getCamelCase(text){
